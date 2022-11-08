@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --primary: 179deg 62% 43%;
+        --secondary: 71deg 73% 54%;
+        --light-gray: 204deg 43% 93%;
+        --gray: 218deg 22% 67%;
+    }
+}
